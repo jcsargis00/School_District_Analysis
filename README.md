@@ -19,6 +19,7 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 
 ## How is the district summary affected?
 ### District Summary (excluding 9th grader scores from Thomson High School)
+Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup) will cover the Distric Summary, School Summary, School average scores and School performance by spending, size and type.
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 ### School Summary
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
