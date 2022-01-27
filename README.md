@@ -59,7 +59,7 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 #### Thomas School math and reading scores for 9th graders before data cleaning
 ![Reading and Math Scores before dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallbefore.PNG)
 #### Thomas School math and reading scores for 9th graders after data cleaning
-![Reading and Math Scores after dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallafter.PNG)
+![Reading and Math Scores after dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallpassingafter.PNG)
 
 How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
