@@ -14,6 +14,10 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
     * School performance by school spending per student 
     * School performance by school size 
     * School performance by school type 
+#### Data Preparation
+* Correct student names to remove prefixes and suffixes
+* Replace Thomas High School 9th grade reading and math scores with NaN
+* Use cleaned data to rerun analysis and report any changes to the results 
 
 ### Results 
 
@@ -38,6 +42,7 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 * Small changes in the % of students passing math
 * Small changes in % of students passing reading 
 * Small changes in % of both passing math and reading
+* District averages went down slightly
 #
 #### How is the School Summary affected?
 * Before data cleanup, Thomas School overall passing rate was 2nd in the district, with an overall passing rate of 91%
@@ -56,7 +61,9 @@ Before data cleaning, Thomas High School ranked 2nd, a top 5 performing school.
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
 #
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-#### Thomas School math and reading scores for 9th graders before data cleaning
+#### Thomas High School math and reading scores for 9th graders before data cleaning
+Setting up a boolean test and using loc and len on the student_data.df to find the number of 9th graders at Thomas High School. 461 students were in 9th grade at Thomas High School.  Their reading and math scores were set to NaN.
+![9th graders](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/ninthgraders.png
 ![Reading and Math Scores before dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallbefore.PNG)
 #### Thomas School math and reading scores for 9th graders after data cleaning
 ![Reading and Math Scores after dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallpassingafter.PNG)
