@@ -53,8 +53,6 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 ### Bottom 5 performing schools (based on passing rate)
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
 #
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-#
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #### Thomas School math and reading scores for 9th graders before data cleaning
 ![Reading and Math Scores before dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallbefore.PNG)
