@@ -34,13 +34,10 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 ### After Data Cleanup Summary Table
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 #
-Small changes in the overall average math and reading scores
-# 
-Small changes in the % of students passing math
-# 
-Small changes in % of students passing reading 
-#
-Small changes in % of both passing math and reading
+* Small changes in the overall average math and reading scores
+* Small changes in the % of students passing math
+* Small changes in % of students passing reading 
+* Small changes in % of both passing math and reading
 ### School Summary
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
