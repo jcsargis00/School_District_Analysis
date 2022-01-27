@@ -21,18 +21,7 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 #### District Summary (excluding 9th grader scores from Thomson High School)
 Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup) will cover the Distric Summary, School Summary, School average scores and School performance by spending, size and type.
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
-### School Summary
-![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-#
-## Thomas School math and reading scores for 9th graders were replaced with NaN (not a number)
-### School Math scores by grade
-![School Math Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagemath.PNG)
-### School Reading Scores by grade
-![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
-## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
 ### Before data cleanup: 
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
 * 79.0, 81.9, 75, 86, 65
@@ -47,6 +36,19 @@ Small changes in the % of students passing math
 Small changes in % of students passing reading 
 #
 Small changes in % of both passing math and reading
+### School Summary
+![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
+#
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+#
+## Thomas School math and reading scores for 9th graders were replaced with NaN (not a number)
+### School Math scores by grade
+![School Math Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagemath.PNG)
+### School Reading Scores by grade
+![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
+## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
 
 How does replacing the ninth-grade scores affect the following:
 ## Math and reading scores by grade
