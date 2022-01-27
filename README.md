@@ -25,7 +25,11 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 #
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 #
-## 
+## Thomas School math and reading scores for 9th graders were replaced with NaN (not a number)
+### School Math scores by grade
+![School Math Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagemath.PNG)
+### School Reading Scores by grade
+![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ### Before data cleanup: 
