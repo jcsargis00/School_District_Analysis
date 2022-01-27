@@ -9,7 +9,7 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 * Tables presenting the following metrics:
     * Top 5 performing schools, based on the overall passing rate 
     * Bottom 5 performing schools, based on the overall passing rate 
-      Average math score for each grade level from each school 
+    * Average math score for each grade level from each school 
     * Average reading score for each grade level from each school 
     * School performance by school spending per student 
     * School performance by school size 
