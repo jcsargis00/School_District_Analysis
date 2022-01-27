@@ -29,6 +29,7 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 # After data cleanup
 # average math score, average reading score, % passing math, % passing reading, % passing math and reading
 ## 78.9, 81.9, 74, 85, 64
+Small changes in the overall average math and reading scores, small changes in the % of students passing math, readin or both
 # How does replacing the ninth-grade scores affect the following:
 ## Math and reading scores by grade
 ## Scores by school spending
