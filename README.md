@@ -29,9 +29,9 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
 * 78.9, 81.9, 74, 85, 64
 #
-# Before Data Cleanup Summary Table
+### Before Data Cleanup Summary Table
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummarybefore.PNG)
-# After Data Cleanup Summary Table
+### After Data Cleanup Summary Table
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 #
 Small changes in the overall average math and reading scores
