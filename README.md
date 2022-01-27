@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Overview of the school district analysis:
 ### Background
-The school board has uncovered evidence of academic dishonesty.  The full extent is unknown.  Alteration of reading and math grades for Thomas High School ninth graders is at issue.  Maria has asked for full audit after replacement of the math and reading scores for Thomas High School ninth graders with NaNs, while making no other changes to the data. Once the revision has been made, Maria has requested a repeat run of the school district analysis (with the suspect grades not considered) and a report detailing how the data changes affected the overall analysis.
+The school board has uncovered evidence of academic dishonesty.  The full extent is unknown.  Alteration of reading and math grades for Thomas High School ninth graders are at issue.  Maria has asked for full audit after replacement of the math and reading scores for Thomas High School ninth graders with NaNs, while making no other changes to the data. Once the revision has been made, Maria has requested a repeat run of the school district analysis (with the suspect grades not considered) and a report detailing how the data changes affected the overall analysis.
 
 ### Deliverables requested include:
 * District summary DataFrame 
