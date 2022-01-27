@@ -22,16 +22,16 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup) will cover the Distric Summary, School Summary, School average scores and School performance by spending, size and type.
 
 #
-### Before data cleanup: 
+#### Before data cleanup: 
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
 * 79.0, 81.9, 75, 86, 65
-### After data cleanup
+#### After data cleanup
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
 * 78.9, 81.9, 74, 85, 64
 #
-### Before Data Cleanup Summary Table
+#### Before Data Cleanup Summary Table
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummarybefore.PNG)
-### After Data Cleanup Summary Table
+#### After Data Cleanup Summary Table
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 #
 * Small changes in the overall average math and reading scores
@@ -44,7 +44,7 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 * After data cleanup, Thomas School overall passing rate was  8th in the district, with an overall passing rate of 65%
 * After data cleanup, Thomas School overall performance ranking sank from 2nd to 13th (out of 15)
 * The data cleanup revealed much worse results both in school ranking and overall passing rate for Thomas High School
-### School Summary
+#### School Summary
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
 ### Top 5 performing schools (based on passing rate)
