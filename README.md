@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
-### Background
+### Background and Purpose
 The school board has uncovered evidence of academic dishonesty.  The full extent is unknown.  Alteration of reading and math grades for Thomas High School ninth graders are at issue.  Maria has asked for a full audit after replacement of the math and reading scores for Thomas High School ninth graders with NaNs (referred to as Data Cleanup below), while making no other changes to the data. Once the revision has been made, Maria has requested a repeat run of the school district analysis (with the suspect grades not considered) and a report detailing how the data changes affected the overall analysis.
 
 ### Deliverables requested include:
@@ -20,7 +20,6 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 #### How is the District Summary affected?
 #### District Summary before and after data cleanup
 Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup) will cover the Distric Summary, School Summary, School average scores and School performance by spending, size and type.
-
 #
 #### Before data cleanup: 
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
@@ -46,9 +45,12 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 * After data cleanup, Thomas School overall performance ranking sank from 2nd to 13th (out of 15)
 * The data cleanup revealed much worse results both in school ranking and overall passing rate for Thomas High School
 #### School Summary
+School Summary Table after data cleanup shows Thomas High School ranked 13th out of 15
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
 #### Top 5 performing schools (based on passing rate) before data cleanup
+Before data cleaning, Thomas High School ranked 2nd, a top 5 performing school.  
+#After, Thomas High School ranked as a bottom 5 performing school
 ![Top 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/topfive.PNG)
 #### Bottom 5 performing schools (based on passing rate) before data cleanup
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
