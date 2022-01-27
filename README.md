@@ -19,9 +19,7 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 
 ## How is the district summary affected?
 ### District Summary
-	Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-0	15	39,170	$24,649,428.00	78.9	81.9	74.8	85.7	64.9
-How is the school summary affected?
+![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
