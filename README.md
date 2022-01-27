@@ -22,15 +22,16 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 #
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Before data cleanup: 
-average math score, average reading score, % passing math, % passing reading, % passing math and reading
-79.0, 81.9, 75, 86, 65
-After data cleanup
-average math score, average reading score, % passing math, % passing reading, % passing math and reading
-78.9, 81.9, 74, 85, 64
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+#
+# Before data cleanup: 
+# average math score, average reading score, % passing math, % passing reading, % passing math and reading
+## 79.0, 81.9, 75, 86, 65
+# After data cleanup
+# average math score, average reading score, % passing math, % passing reading, % passing math and reading
+## 78.9, 81.9, 74, 85, 64
+# How does replacing the ninth-grade scores affect the following:
+## Math and reading scores by grade
+## Scores by school spending
+## Scores by school size
+## Scores by school type
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
