@@ -18,10 +18,16 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 ## Results: 
 
 ## How is the district summary affected?
-### District Summary
+### District Summary (excluding 9th grader scores from Thomson High School)
 ![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 #
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Before data cleanup: 
+average math score, average reading score, % passing math, % passing reading, % passing math and reading
+79.0, 81.9, 75, 86, 65
+After data cleanup
+average math score, average reading score, % passing math, % passing reading, % passing math and reading
+78.9, 81.9, 74, 85, 64
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
