@@ -20,10 +20,9 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 * Use cleaned data to rerun analysis and report any changes to the results 
 
 ### Results 
-
+Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup).  This report will look at changes to the District Summary, School Summary, School average scores and School performance by spending, size and type.
 #### How is the District Summary affected?
-#### District Summary before and after data cleanup
-Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup).  This report will look at changes to the Distric Summary, School Summary, School average scores and School performance by spending, size and type.
+#### District Summary
 #
 #### Before data cleanup: 
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
