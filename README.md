@@ -48,9 +48,9 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 #### School Summary
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
-### Top 5 performing schools (based on passing rate)
+#### Top 5 performing schools (based on passing rate) before data cleanup
 ![Top 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/topfive.PNG)
-### Bottom 5 performing schools (based on passing rate)
+#### Bottom 5 performing schools (based on passing rate) before data cleanup
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
 #
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -58,7 +58,12 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 ![Reading and Math Scores before dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallbefore.PNG)
 #### Thomas School math and reading scores for 9th graders after data cleaning
 ![Reading and Math Scores after dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallpassingafter.PNG)
-
+#
+#### Thomas High School performance based on math and reading scoreafter data cleanup
+![Top 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/topfive.PNG)
+#### Bottom 5 performing schools (based on passing rate) after data cleanup
+![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
+#
 How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 #### School Math scores by grade
@@ -66,6 +71,10 @@ How does replacing the ninth-grade scores affect the following:
 #### School Reading Scores by grade
 ![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 #### Scores by school spending
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingperstudent.PNG)
+
 #### Scores by school size
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
 #### Scores by school type
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
 ### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
