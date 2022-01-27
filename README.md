@@ -34,7 +34,9 @@ Small changes in the overall average math and reading scores
 # 
 Small changes in the % of students passing math
 # 
-Small changes in % of students passing reading or % of both passing math and reading
+Small changes in % of students passing reading 
+#
+Small changes in % of both passing math and reading
 # How does replacing the ninth-grade scores affect the following:
 ## Math and reading scores by grade
 ## Scores by school spending
