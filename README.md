@@ -1,5 +1,5 @@
 # School_District_Analysis
-## Overview of the school district analysis
+## Overview of the School District Analysis
 ### Background
 The school board has uncovered evidence of academic dishonesty.  The full extent is unknown.  Alteration of reading and math grades for Thomas High School ninth graders are at issue.  Maria has asked for a full audit after replacement of the math and reading scores for Thomas High School ninth graders with NaNs (referred to as Data Cleanup below), while making no other changes to the data. Once the revision has been made, Maria has requested a repeat run of the school district analysis (with the suspect grades not considered) and a report detailing how the data changes affected the overall analysis.
 
@@ -20,7 +20,7 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 #### How is the District Summary affected?
 #### District Summary (excluding 9th grader scores from Thomson High School)
 Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup) will cover the Distric Summary, School Summary, School average scores and School performance by spending, size and type.
-![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
+
 #
 ### Before data cleanup: 
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
@@ -28,6 +28,8 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 ### After data cleanup
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
 * 78.9, 81.9, 74, 85, 64
+#
+![District Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/districtsummary.PNG)
 #
 Small changes in the overall average math and reading scores
 # 
