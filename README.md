@@ -44,12 +44,13 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 * District averages went down slightly
 #
 #### How is the School Summary affected?
+#### School Summary
 * Before data cleanup, Thomas School overall passing rate was 2nd in the district, with an overall passing rate of 91%
 * After data cleanup, Thomas School overall passing rate was  8th in the district, with an overall passing rate of 65%
 * After data cleanup, Thomas School overall performance ranking sank from 2nd to 13th (out of 15)
 * The data cleanup revealed much worse results both in school ranking and overall passing rate for Thomas High School
-#### School Summary
-School Summary Table after data cleanup shows Thomas High School ranked 13th out of 15
+#### School Summary Table
+The School Summary Table after data cleanup shows Thomas High School ranked 13th out of 15
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
 #### Top 5 performing schools (based on passing rate) before data cleanup
