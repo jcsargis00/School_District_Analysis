@@ -50,7 +50,7 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 * After data cleanup, Thomas School overall performance ranking sank from 2nd to 13th (out of 15)
 * The data cleanup revealed much worse results both in school ranking and overall passing rate for Thomas High School
 #### School Summary Table
-The School Summary Table after data cleanup shows Thomas High School ranked 13th out of 15
+The School Summary Table after data cleanup shows Thomas High School ranked 13th out of 15 schools in the district.
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
 #### Top 5 performing schools (based on passing rate) before data cleanup
@@ -65,13 +65,13 @@ After, Thomas High School ranked as a bottom 5 performing school
 #
 ![Reading and Math Scores before dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallbefore.PNG)
 #### Thomas School math and reading scores for 9th graders after data cleaning
-Setting up a boolean test and using loc and len on the student_data.df to find the number of 9th graders at Thomas High School. 461 students were in 9th grade at Thomas High School. 
+Setting up a boolean test and using loc and len on the student_data.df to find the number of 9th graders at Thomas High School. 461 students were in 9th grade at Thomas High School. Before data cleanup there were 1635 students, after there were 1174 (after removing the 461 9th graders scores).
 #
 ![9th graders](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/ninthgraders.PNG)
-#  Their reading and math scores were set to NaN and the overall passing report was rerun with the following result.
+####  Their reading and math scores were set to NaN and the overall passing report was rerun with the following result.
 ![Reading and Math Scores after dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallpassingafter.PNG)
 #
-#### Thomas High School performance based on math and reading scoreafter data cleanup
+#### Thomas High School performance based on math and reading scores after data cleanup
 ![Top 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/topfive.PNG)
 #### Bottom 5 performing schools (based on passing rate) after data cleanup
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
@@ -85,10 +85,12 @@ How does replacing the ninth-grade scores affect the following:
 #
 ![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 #### Scores by school spending
+Thomas High School is in spending bin ranging from $630-644
+Before 73, 84, 63 After 67% passing math,77, 56
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingperstudent.PNG)
 
 #### Scores by school size
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
 #### Scores by school type
-![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
 ### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
