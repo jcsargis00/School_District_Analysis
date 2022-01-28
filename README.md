@@ -115,7 +115,7 @@ Thomas High School is in spending bin ranging from $601-650 ($638 per student bu
     * Average math scores dropped slightly 
     * Average reading scores were the same
     * Percentage of students passing math dropped slightly 
-    * Percentage of students passing reading dropped slightle 
+    * Percentage of students passing reading dropped slightly 
     * The overall passing rate dropped 
 #
 2. Scores for Thomas High School specifically
