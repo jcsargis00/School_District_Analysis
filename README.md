@@ -86,14 +86,15 @@ How does replacing the ninth-grade scores affect the following:
 ![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 #### Scores by school spending
 Thomas High School is in spending bin ranging from $630-644
-Before: Passing % in Math, Reading, Overall= 73, 84, 63 
-After:  Passing % in Math, Reading, Overall= 67, 77, 56  a significant dropoff in performance
+#
+* Before: Passing % in Math, Reading, Overall= 73, 84, 63 
+* After:  Passing % in Math, Reading, Overall= 73, 84, 63  a significant dropoff in performance
 #### Summary Table of School Spending before data cleanup
 #
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendinperstudentbefore.PNG)
 #### Summary Table of School Spending after data cleanup
 #
-![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingperstudent.PNG)
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingperstudentafter.PNG)
 #### Scores by school size after before cleanup
 ![school size](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schoolsizebefore.PNG)
 #### Scores by school size after before cleanup
