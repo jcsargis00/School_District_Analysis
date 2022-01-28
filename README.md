@@ -74,11 +74,10 @@ Setting up a boolean test and using loc and len on the student_data.df to find t
 How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 #### Average School Math scores by grade for each school
-##### Average math scores dropped slightly
+Average math scores dropped slightly
 ![School Math Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagemath.PNG)
 #### Average School Reading Scores by grade for each school
-##### Average reading scores were the same
-Average math scores dropped slightly
+Average reading scores were the same
 ![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 #### Scores by school spending
 Thomas High School is in spending bin ranging from $630-644
