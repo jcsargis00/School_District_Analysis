@@ -22,7 +22,7 @@ The school board has uncovered evidence of academic dishonesty.  The full extent
 ### Results 
 Analysis before and after the math and reading scores of Thomas High School 9th graders were changed to Nans (Data Cleanup).  This report will look at changes to the District Summary, School Summary, School average scores and School performance by spending, size and type.
 #### How is the District Summary affected?
-#### District Summary
+#### District Summary DataFrame
 #
 #### Before data cleanup: 
 * average math score, average reading score, % passing math, % passing reading, % passing math and reading
@@ -44,7 +44,7 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 * District averages went down slightly
 #
 #### How is the School Summary affected?
-#### School Summary
+#### School Summary DataFrame
 * Before data cleanup, Thomas School overall passing rate was 2nd in the district, with an overall passing rate of 91%
 * After data cleanup, Thomas School overall passing rate was  8th in the district, with an overall passing rate of 65%
 * After data cleanup, Thomas School overall performance ranking sank from 2nd to 13th (out of 15)
@@ -84,20 +84,15 @@ Thomas High School is in spending bin ranging from $630-644
 #
 * Before: Passing % in Math, Reading, Overall= 73, 84, 63 
 * After:  Passing % in Math, Reading, Overall= 67, 77, 56  a significant dropoff in performance
-#### Summary Table of School Spending before data cleanup
-#
-![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendinperstudentbefore.PNG)
-#### Summary Table of School Spending after data cleanup
-#
+#### Summary Table of School Spending per student
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingperstudentafter.PNG)
-#### Scores by school size after before cleanup
-![school size](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schoolsizebefore.PNG)
-#### Scores by school size after before cleanup
+
+#### Performance scores by school size 
 ![school size](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
-#### Scores by school type before data cleanup
-![school type](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooltypebefore.PNG)
-#### Scores by school type after data cleanup
+
+#### Performance scores by school type
 ![school type](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
+
 ### Summary
 #### Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 * Removing 9th grade student scores from Thomas High School affected the school district in the following ways:
