@@ -111,7 +111,7 @@ Thomas High School is in spending bin ranging from $630-644
 
 ### Summary
 #### Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-* Removing 9th grade student scores from Thomas High School affected the school district analysis in the following ways:
+#### Removing 9th grade student scores from Thomas High School affected the school district analysis in the following ways:
 #
 1.  General scores at all schools
     Average math scores dropped slightly 
