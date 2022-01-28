@@ -87,10 +87,22 @@ How does replacing the ninth-grade scores affect the following:
 #### Scores by school spending
 Thomas High School is in spending bin ranging from $630-644
 Before 73, 84, 63 After 67% passing math,77, 56
+#Before data cleanup
+#
+After data cleanup
+#
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingperstudent.PNG)
-
-#### Scores by school size
+#### Scores by school size after before cleanup
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
-#### Scores by school type
+#### Scores by school type after before cleanup
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
-### Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+#### Scores by school type before data cleanup
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
+#### Scores by school type after data cleanup
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
+### Summary
+#### Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+* 
+* 
+* 
+* 
