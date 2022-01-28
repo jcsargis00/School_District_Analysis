@@ -71,24 +71,19 @@ Setting up a boolean test and using loc and len on the student_data.df to find t
 ####  Their reading and math scores were set to NaN and the overall passing report was rerun with the following result.
 ![Reading and Math Scores after dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallpassingafter.PNG)
 #
-#### Thomas High School performance based on math and reading scores after data cleanup
-![Top 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/topfive.PNG)
-#### Bottom 5 performing schools (based on passing rate) after data cleanup
-![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
-#
 How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
-#### School Math scores by grade
+#### Average School Math scores by grade for each school
 #
 ![School Math Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagemath.PNG)
-#### School Reading Scores by grade
+#### Average School Reading Scores by grade for each school
 #
 ![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 #### Scores by school spending
 Thomas High School is in spending bin ranging from $630-644
 #
 * Before: Passing % in Math, Reading, Overall= 73, 84, 63 
-* After:  Passing % in Math, Reading, Overall= 73, 84, 63  a significant dropoff in performance
+* After:  Passing % in Math, Reading, Overall= 67, 77, 56  a significant dropoff in performance
 #### Summary Table of School Spending before data cleanup
 #
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendinperstudentbefore.PNG)
@@ -105,7 +100,39 @@ Thomas High School is in spending bin ranging from $630-644
 ![school type](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
 ### Summary
 #### Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-* 
+* Removing 9th grade student scores from Thomas High School affected the school district in the following ways:
+
+Average math scores dropped slightly (<1%)
+Average reading scores were not affected
+Percentage of students passing math dropped slightly (-1%)
+Percentage of students passing reading dropped slightle (-1%)
+The overall passing rate dropped (-1%)
+Only scores for Thomas High School were affected:
+
+Perentage of students passing math dropped from 93.2% to 66.9%
+Percentage of students passing reading dropped from 97.3% to 69.7%
+Overall passing percentage dropped from 90.9% to 65.1%
+Thomas High School affected school rankings in the following ways:
+
+Thomas High school dropped out of the top 5 high schools in the district
+Wright High School moved into the top 5 high schools in the district
+Bottom 5 high schools was unaffected
+Removing 9th grade student scores from Thomas High School affected other reports:
+
+Math and reading scores by grade remained the same for all other schools
+Thomas High School had no data to report for 9th grade math and reading scores
+Scores by school spending chaged at the $601-650 range:
+Percentage passing math dropped from 73% to 67%
+Percentage passing reading dropped from 84% to 77%
+Overall passing percentage dropped from 63% to 56%
+Scores by school size changed for medium-sized schools (1000-2000):
+Percentage passing math dropped from 94% to 85%
+Percentage passing reading dropped from 97% to 91%
+Overall passing percentage dropped from 91% to 85%
+Scores by schools type were affected in the following ways:
+Percentage passing math dropped from 94% to 90%
+Percentage passing reading dropped from 97% to 93%
+Overall passing percentage dropped from 90% to 87%
 * 
 * 
 * 
