@@ -61,6 +61,7 @@ After data cleaning, Thomas High School ranked 8th, no longer a top school.
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
 #
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+High School Ranking went down, reading, math and overall % passing went down.  See more details below.
 #### Thomas High School math and reading scores for 9th graders before data cleaning
 #
 ![Reading and Math Scores before dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallbefore.PNG)
@@ -71,22 +72,19 @@ Setting up a boolean test and using loc and len on the student_data.df to find t
 ####  Their reading and math scores were set to NaN and the overall passing report was rerun with the following result.
 ![Reading and Math Scores after dc](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooloverallpassingafter.PNG)
 #
-How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 #### Average School Math scores by grade for each school
 Average math scores dropped slightly.
 #
 ![School Math Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagemath.PNG)
 #### Average School Reading Scores by grade for each school
-Average reading scores were the same.
+Average reading scores were about the same.
 #
 ![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 #### Performance scores by school spending
-Thomas High School is in spending bin ranging from $630-644
+Thomas High School is in spending bin ranging from $601-650 ($638 per student budget)
 #
-* Before: Passing % in Math, Reading, Overall= 73, 84, 63.
-* After:  Passing % in Math, Reading, Overall= 67, 77, 56  a significant dropoff in performance.
-*  Scores by school spending changed in the $601-650 range (Thomas High School spending category)
+* Scores by school spending changed in the $601-650 range (Thomas High School spending category)
     * Percentage passing math dropped 
     * Percentage passing reading dropped 
     * Overall passing percentage dropped 
