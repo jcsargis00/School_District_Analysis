@@ -95,17 +95,17 @@ Thomas High School is in spending bin ranging from $630-644
 #
 #### Performance scores by school size 
 *  Scores by school size changed for medium-sized schools (Thomas High School size)
-    ** Percentage passing math dropped 
-    ** Percentage passing reading dropped 
-    ** Overall passing percentage dropped 
+    * Percentage passing math dropped 
+    * Percentage passing reading dropped 
+    * Overall passing percentage dropped 
 #
 ![school size](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
 
 #### Performance scores by school type
 *  Scores by schools type were affected in the following ways in Distric school (Thomas High School type)
-    ** Percentage passing math dropped 
-    ** Percentage passing reading dropped 
-    ** Overall passing percentage dropped 
+    * Percentage passing math dropped 
+    * Percentage passing reading dropped 
+    * Overall passing percentage dropped 
 #
 ![school type](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
 
@@ -129,18 +129,18 @@ Thomas High School is in spending bin ranging from $630-644
 3.  Ranking of Thomas High School dropped from 2nd to 13th in the district
 #
 4.  Integrity of reports  
-    ** Math and reading scores by grade unchanged for all other schools
-    ** No data for Thomas High School 9th graders, entire class had scores set to NaN
+    * Math and reading scores by grade unchanged for all other schools
+    * No data for Thomas High School 9th graders, entire class had scores set to NaN
 *  Scores by school spending changed at the $601-650 range (Thomas High School spending category)
-    ** Percentage passing math dropped 
-    ** Percentage passing reading dropped 
-    ** Overall passing percentage dropped 
+    * Percentage passing math dropped 
+    * Percentage passing reading dropped 
+    * Overall passing percentage dropped 
 *  Scores by school size changed for medium-sized schools (Thomas High School size)
-    ** Percentage passing math dropped 
-    ** Percentage passing reading dropped 
-    ** Overall passing percentage dropped 
+    * Percentage passing math dropped 
+    * Percentage passing reading dropped 
+    * Overall passing percentage dropped 
 *  Scores by schools type were affected in the following ways in Distric school (Thomas High School type)
-    ** Percentage passing math dropped 
-    ** Percentage passing reading dropped 
-    ** Overall passing percentage dropped 
+    * Percentage passing math dropped 
+    * Percentage passing reading dropped 
+    * Overall passing percentage dropped 
  
