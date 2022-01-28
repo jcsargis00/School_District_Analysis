@@ -89,17 +89,18 @@ Thomas High School is in spending bin ranging from $630-644
 Before 73, 84, 63 After 67% passing math,77, 56
 #Before data cleanup
 #
+![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schoolsummarybefore.PNG)
 After data cleanup
 #
 ![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingperstudent.PNG)
 #### Scores by school size after before cleanup
-![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
-#### Scores by school type after before cleanup
-![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
+![school size](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schoolsizebefore.PNG)
+#### Scores by school size after before cleanup
+![school size](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
 #### Scores by school type before data cleanup
-![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschoolsize.PNG)
+![school type](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/schooltypebefore.PNG)
 #### Scores by school type after data cleanup
-![spending per student](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
+![school type](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/spendingbyschooltype.PNG)
 ### Summary
 #### Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 * 
