@@ -74,10 +74,11 @@ Setting up a boolean test and using loc and len on the student_data.df to find t
 How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
 #### Average School Math scores by grade for each school
-#
+##### Average math scores dropped slightly
 ![School Math Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagemath.PNG)
 #### Average School Reading Scores by grade for each school
-#
+##### Average reading scores were the same
+Average math scores dropped slightly
 ![School Reading Score Averages](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/averagereading.PNG)
 #### Scores by school spending
 Thomas High School is in spending bin ranging from $630-644
@@ -95,39 +96,36 @@ Thomas High School is in spending bin ranging from $630-644
 
 ### Summary
 #### Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-* Removing 9th grade student scores from Thomas High School affected the school district in the following ways:
+* Removing 9th grade student scores from Thomas High School affected the school district analysis in the following ways:
+#
+1.  General scores at all schools
+    Average math scores dropped slightly 
+    Average reading scores were the same
+    Percentage of students passing math dropped slightly 
+    Percentage of students passing reading dropped slightle 
+    The overall passing rate dropped 
+#
+2.  Scores for Thomas High School specifically
+    Perentage of students passing math dropped from 93% to 67%
+    Percentage of students passing reading dropped from 97% to 60%
+    Overall passing percentage dropped from 91% to 65%
+    Thomas High School affected school rankings in the following ways:
 
-Average math scores dropped slightly (<1%)
-Average reading scores were not affected
-Percentage of students passing math dropped slightly (-1%)
-Percentage of students passing reading dropped slightle (-1%)
-The overall passing rate dropped (-1%)
-Only scores for Thomas High School were affected:
-
-Perentage of students passing math dropped from 93.2% to 66.9%
-Percentage of students passing reading dropped from 97.3% to 69.7%
-Overall passing percentage dropped from 90.9% to 65.1%
-Thomas High School affected school rankings in the following ways:
-
-Thomas High school dropped out of the top 5 high schools in the district
-Wright High School moved into the top 5 high schools in the district
-Bottom 5 high schools was unaffected
-Removing 9th grade student scores from Thomas High School affected other reports:
-
-Math and reading scores by grade remained the same for all other schools
-Thomas High School had no data to report for 9th grade math and reading scores
-Scores by school spending chaged at the $601-650 range:
-Percentage passing math dropped from 73% to 67%
-Percentage passing reading dropped from 84% to 77%
-Overall passing percentage dropped from 63% to 56%
-Scores by school size changed for medium-sized schools (1000-2000):
-Percentage passing math dropped from 94% to 85%
-Percentage passing reading dropped from 97% to 91%
-Overall passing percentage dropped from 91% to 85%
-Scores by schools type were affected in the following ways:
-Percentage passing math dropped from 94% to 90%
-Percentage passing reading dropped from 97% to 93%
-Overall passing percentage dropped from 90% to 87%
-* 
-* 
-* 
+3.  Ranking of Thomas High School dropped from 2nd to 13th in the district
+#
+4.  Integrity of reports  
+    ** Math and reading scores by grade unchanged for all other schools
+    ** No data for Thomas High School 9th graders, entire class had scores set to NaN
+*  Scores by school spending changed at the $601-650 range (Thomas High School spending category)
+    ** Percentage passing math dropped 
+    ** Percentage passing reading dropped 
+    ** Overall passing percentage dropped 
+*  Scores by school size changed for medium-sized schools (Thomas High School size)
+    ** Percentage passing math dropped 
+    ** Percentage passing reading dropped 
+    ** Overall passing percentage dropped 
+*  Scores by schools type were affected in the following ways in Distric school (Thomas High School type)
+    ** Percentage passing math dropped 
+    ** Percentage passing reading dropped 
+    ** Overall passing percentage dropped 
+ 
