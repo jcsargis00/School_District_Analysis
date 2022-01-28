@@ -53,11 +53,11 @@ Analysis before and after the math and reading scores of Thomas High School 9th 
 The School Summary Table after data cleanup shows Thomas High School ranked 13th out of 15 schools in the district.
 ![School Summary](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/school_summary.PNG) 
 #
-#### Top 5 performing schools (based on passing rate) before data cleanup
+#### Top 5 performing schools (based on passing rate) 
 Before data cleaning, Thomas High School ranked 2nd, a top 5 performing school.  
 After, Thomas High School ranked as a bottom 5 performing school
 ![Top 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/topfive.PNG)
-#### Bottom 5 performing schools (based on passing rate) before data cleanup
+#### Bottom 5 performing schools (based on passing rate) 
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
 #
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
