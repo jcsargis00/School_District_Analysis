@@ -55,7 +55,7 @@ The School Summary Table after data cleanup shows Thomas High School ranked 13th
 #
 #### Top 5 performing schools (based on passing rate) 
 Before data cleaning, Thomas High School ranked 2nd, a top 5 performing school.  
-After, Thomas High School ranked as a bottom 5 performing school
+After, Thomas High School ranked 8th, no longer a top school.
 ![Top 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/topfive.PNG)
 #### Bottom 5 performing schools (based on passing rate) 
 ![Bottom 5 performing schools](https://github.com/jcsargis00/School_District_Analysis/blob/main/Resources/bottom5.PNG)
